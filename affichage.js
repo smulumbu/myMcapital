@@ -1,5 +1,4 @@
-const message = 'TP SABIN MULUMBU' // Try edit me
-
+//Format Affichage prix currencies
 
 
 
