@@ -24,7 +24,7 @@ else if (10 < marketPrice)
 return marketPrice.toFixed(precision);
 }
 
-function affichageCurrencies(marketPrice, quantity) {
+function affichageQuantity(marketPrice, quantity) {
 
   var precision =0;
 
